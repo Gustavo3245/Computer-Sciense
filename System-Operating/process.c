@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /* Todo programa cria um processo, tudo feito dentro dos limites do sistema operacional precisa de um processo.
- * um processo é a ação do sistema operacional, é a forma de pegar arquivos, códigos, e executa-los.
+ * um processo é a ação do sistema operacional, é a forma de pegar arquivos, códigos, e executa-los
  */
 
 int main(int argc, char *argv[]){
